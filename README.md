@@ -9,13 +9,12 @@ This project is a machine learning model that predicts whether a passenger on th
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
-2. [Dataset](#dataset)
-3. [Modeling Techniques](#modeling-techniques)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Results](#results)
-7. [Conclusion](#conclusion)
-8. [License](#license)
+2. [Modeling Techniques](#modeling-techniques)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Results](#results)
+6. [Conclusion](#conclusion)
+7. [License](#license)
 
 ## Project Overview
 
